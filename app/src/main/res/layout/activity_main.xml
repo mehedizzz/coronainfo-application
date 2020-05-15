@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/greencorona"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#F50057"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:textColor="#FFFF"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CORONA INFO"
+
+                android:layout_marginLeft="86dp"
+
+                />
+        </RelativeLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/info"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:background="#9C27B0"
+            android:textColor="#ffff"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="info"/>
+        <Button
+            android:padding="10dp"
+            android:id="@+id/hqua"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textColor="#ffff"
+            android:background="#F44336"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Home Quarantine"
+            />
+        <Button
+            android:padding="10dp"
+            android:id="@+id/iso"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textColor="#ffff"
+            android:background="#FF9800"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Isolation"
+            />
+        <Button
+            android:padding="10dp"
+            android:id="@+id/bsym"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:background="#4CAF50"
+            android:textColor="#ffff"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Basic Symptoms"
+            />
+        <Button
+            android:padding="10dp"
+            android:id="@+id/whdo"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:background="#2196F3"
+            android:textColor="#ffff"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="What must i do?"
+            />
+        <Button
+            android:padding="10dp"
+            android:id="@+id/pn"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:background="#3F51B5"
+            android:textColor="#ffff"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="call to Iedcr"
+            />
+        <Button
+            android:padding="10dp"
+            android:id="@+id/hospital"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:background="#F0CC4B4B"
+            android:textColor="#ffff"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Treatment hospital"
+            />
+        <TextView
+            android:textColor="#ffff"
+            android:textStyle="bold"
+            android:layout_marginTop="75dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Version 1.0.0\nDeveloped by Mehedi Hasan\nEmail: mehedi4day@gmail.com"
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

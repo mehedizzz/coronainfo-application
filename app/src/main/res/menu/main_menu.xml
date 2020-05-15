@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Feedback"
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:title="About"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:id="@+id/about"
+        app:showAsAction="never"
+        />
+
+
+
+</menu>

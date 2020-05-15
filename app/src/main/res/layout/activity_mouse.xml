@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Mouse">
+
+    <androidx.appcompat.widget.Toolbar
+
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#F50057"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:textColor="#FFFF"
+                android:textSize="25sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HOW TO USE MASK?"
+                android:layout_centerHorizontal="true"
+
+                />
+
+        </RelativeLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/maskth"
+                />
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/maskfr"
+                />
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/maskfv"
+                />
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/masksx"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/maskseven"
+                />
+            <ImageView
+
+                android:layout_marginRight="30dp"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/maskeight"
+                />
+            <ImageView
+
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="0dp"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/masktw"
+                />
+
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView
+            android:textColor="#030303"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mask"
+
+            />
+
+    </ScrollView>
+
+</LinearLayout>

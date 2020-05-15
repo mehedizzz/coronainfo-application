@@ -1,0 +1,432 @@
+<resources>
+    <string name="app_name">Corona Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quarantine">"
+
+        "<u><b>"কোয়ারেনটাইন, সেলফ কোয়ারেনটাইন।।"</b></u>"
+
+করোনাভাইরাসের প্রাদুর্ভাব ছড়িয়ে পড়ার সঙ্গে সঙ্গে এই ভাইরাসের চিকিৎসা সম্পর্কিত দুইটি শব্দও বহুল ব্যবহৃত হতে থাকে— কোয়ারেনটাইন ও আইসোলেশন। এর সঙ্গে সেলফ কোয়ারেনটাইন ও হোম কোয়ারেনটাইনের মতো শব্দগুলোও আলোচনায় উঠে আসে। বিশেষ করে বাংলাদেশে করোনাভাইরাসে আক্রান্ত কোভিড-১৯ রোগী শনাক্ত হওয়ার পর এই শব্দগুলো আরও বেশি উঠে এসেছে আলোচনায়। কিন্তু এই করোনাভাইরাস মোকাবিলায় এই ধাপগুলোর কোনটি কী, কোন ধাপে কোন ব্যক্তিকে কী অবস্থায় রাখা হয়— এসব বিষয় নিয়ে স্পষ্ট ধারণা নেই অনেকেরই।
+
+ আইসোলেশন, কোয়ারেনটাইন, সেলফ কোয়ারেনটাইনের মতো শব্দগুলোর অর্থ পরিষ্কার হলে দেশের করোনা পরিস্থিতিও অনেকটাই স্পষ্ট হবে।
+চিকিৎসা শাস্ত্রে কোনো ধরনের জীবাণু সংক্রমণের ঝুঁকিতে থাকতে পারেন— এমন আশঙ্কায় থাকা কোনো ব্যক্তিকে অন্যদের থেকে আলাদা রাখার যে পদ্ধতি, তাকেই বলা হয় কোয়ারেনটাইন।
+
+১৩৪৭ সালে ইউরোপে ‘ব্ল্যাক ডেথ’ নামে একটি রোগ মহামারি আকার ধারণ করে। ধারণা করা হয়, ১৪শ শতকের ওই রোগে সাড়ে সাত থেকে ২০ কোটি মানুষ প্রাণ হারিয়েছিলেন। ওই সময় ইতালির ভেনিস শহর কর্তৃপক্ষ আইন জারি করে, বন্দরে ভেড়ার পর জাহাজ ৪০ দিন পর্যন্ত নোঙ্গর করে রাখতে হবে। এরপরই জাহাজ থেকে যাত্রী নামতে পারবেন। অর্থাৎ জাহাজের যাত্রীদের মূল ভূখণ্ড থেকে আলাদা করে রাখা হয়। ওই ৪০ সংখ্যাটিকে ইতালিয়ান ভাষায় বলা হয় ‘কোয়ারান-তিনো’। এই শব্দ থেকেই ‘কোয়ারেনটাইন’ শব্দটির উৎপত্তি।
+
+"<b>"কিভাবে কোয়ারেন্টাইন পালন করবেন?"</b>"
+
+1. কোয়ারেনটাইনে বাড়ির অন্য সদস্যদের থেকে আলাদা থাকতে হবে।
+
+2. অন্যদের থেকে অন্তত ৩ ফুট দূরত্ব বজায় রাখতে হবে।
+
+3. ঘুমানোর জন্য পৃথক বিছানা ব্যবহার করতে হবে। আলো–বাতাস ঢোকে, এমন ঘরে থাকতে হবে।
+
+4. সম্ভব হলে পৃথক গোসলখানা এবং শৌচাগার ব্যবহার করতে হবে। সম্ভব না হলে ওই স্থানগুলোতে জানালা খুলে রেখে পর্যাপ্ত আলো-বাতাসের ব্যবস্থা করতে হবে। অন্যদের সঙ্গে ব্যবহার করতে হয়, এমন স্থানের সংখ্যা কমাতে হবে।
+
+5. বুকের দুধ খাওয়ান এমন মা শিশুকে বুকের দুধ খাওয়াতে পারবেন। শিশুর কাছে যাওয়ার সময় মাস্ক পরতে হবে এবং ভালোভাবে হাত ধুয়ে নিতে হবে।
+
+6. কোয়ারেনটাইনে কোনো পশুপাখি রাখা যাবে না।
+
+7. বাড়ির অন্য সদস্যদের সঙ্গে একই ঘরে অবস্থান করলে, বিশেষ করে এক মিটারের মধ্যে আসার সময় মাস্ক ব্যবহার করা উচিত। প্রয়োজনে বাড়ি থেকে বের হলে মাস্ক ব্যবহার করতে হবে।
+
+8. মাস্ক পরে থাকার সময় এটি হাত দিয়ে ধরা যাবে না। মাস্ক ব্যবহারের সময় সর্দি, থুতু, কাশি, বমি ইত্যাদির সংস্পর্শে এলে সঙ্গে সঙ্গে মাস্ক খুলে নতুন মাস্ক ব্যবহার করতে হবে। ব্যবহৃত মাস্ক ঢাকনাযুক্ত ময়লার পাত্রে ফেলে সাবান–পানি দিয়ে ভালোভাবে হাত ধুতে হবে।
+
+9. একজনের ব্যক্তিগত সামগ্রী আরেকজন ব্যবহার করবেন না। কোয়ারেনটাইনে থাকা ব্যক্তির থালা, গ্লাস, কাপসহ বাসনপত্র, তোয়ালে, বিছানার চাদর অন্য কেউ ব্যবহার করবেন না। এসব জিনিসপত্র ব্যবহারের পর সাবান-পানি দিয়ে ভালোভাবে পরিষ্কার করতে হবে।
+
+10. কোয়ারেনটাইনে থাকা ব্যক্তির ব্যবহৃত বা তার পরিচর্যায় ব্যবহৃত মাস্ক, গ্লাভস, টিস্যু ইত্যাদি অথবা অন্য আবর্জনা ওই ঘরে রাখা ঢাকনাযুক্ত ময়লার পাত্রে ফেলতে হবে। এসব আবর্জনা উন্মুক্ত স্থানে না ফেলে পুড়িয়ে ফেলতে হবে।
+
+11. দৈনন্দিন রুটিন, যেমন খাওয়া, হালকা ব্যায়াম ইত্যাদি মেনে চলতে হবে। সম্ভব হলে বাসা থেকে অফিসের কাজ করতে হবে।
+
+12. বই পড়া, গান শোনা, সিনেমা দেখা অথবা ওপরের নিয়মগুলোর পরিপন্থী নয় এমন যেকোনো বিনোদনমূলক কাজে যুক্ত হওয়া যাবে।
+
+13. পরিবারের কোনো সুস্থ সদস্য অর্থাৎ যাদের দীর্ঘমেয়াদি রোগ যেমন ডায়াবেটিস, উচ্চ রক্তচাপ, ক্যানসার, অ্যাজমা ইত্যাদি নেই, এমন একজন ব্যক্তি পরিচর্যাকারী হিসেবে নিয়োজিত হতে পারেন। তিনি ওই ঘরে বা পাশের ঘরে থাকবেন। অবস্থান বদল করবেন না। কোয়ারেনটাইনে আছেন, এমন ব্যক্তির সঙ্গে কোনো অতিথিকে দেখা করতে দেওয়া যাবে না।
+
+14. কোয়ারেনটাইনে থাকা ব্যক্তির সংস্পর্শে এলে বা তার ঘরে ঢুকলে, খাবার তৈরির আগে ও পরে, খাবার আগে, শৌচাগার ব্যবহারের পরে, গ্লাভস পরার আগে ও খোলার পরে বা যখনই হাত দেখে নোংরা মনে হবে, তখনই দুই হাত পরিষ্কার করতে হবে।
+
+15. ঘরের মেঝে, আসবাব, শৌচাগার ও বাথরুম প্রতিদিন অন্তত একবার পরিষ্কার করতে হবে। পরিষ্কারের জন্য এক লিটার পানির মধ্যে ২০ গ্রাম বা ২ টেবিল চামচ ব্লিচিং পাউডার মিশিয়ে তা দিয়ে ভালোভাবে মুছে ফেলতে হবে। ওই দ্রবণ সর্বোচ্চ ২৪ ঘণ্টা পর্যন্ত ব্যবহার করা যাবে।
+
+16. কোয়ারেনটাইনে থাকা ব্যক্তিকে নিজের কাপড়, বিছানার চাদর, তোয়ালে ইত্যাদি গুঁড়া সাবান বা কাপড় কাঁচার সাবান ও পানি দিয়ে ভালোভাবে পরিষ্কার করতে বলতে হবে। কাপড় ভালোভাবে শুকাতে হবে।
+
+17. নোংরা কাপড় একটি লন্ড্রি ব্যাগে আলাদা রাখতে হবে। মলমূত্র বা নোংরা লাগা কাপড় ঝাঁকানো যাবে না এবং নিজের শরীর বা কাপড়ে যেন না লাগে, তা খেয়াল করতে হবে।
+
+18. কোয়ারেনটাইনের সময় ফোন, ইন্টারনেটের সাহায্যে যোগাযোগ রাখতে হবে।
+
+19. কোয়ারেনটাইনে থাকার সময় কোনো উপসর্গ যেমন ১০০ ডিগ্রি ফারেনহাইটের বেশি জ্বর, কাশি, সর্দি, গলাব্যথা, শ্বাসকষ্ট ইত্যাদি দেখা দিলে অতি দ্রুত আইইডিসিআরের হটলাইন নম্বরে যোগাযোগ করে পরবর্তী করণীয় জেনে নিতে হবে।
+
+20. চিকিৎসকের পরামর্শ অনুযায়ী কোয়ারেন্টিন শেষ হবে। চিকিৎসকের সিদ্ধান্তমতে একজন থেকে অন্যজনের কোয়ারেনটাইনের সময়সীমা আলাদা হতে পারে। তবে এ পর্যন্ত পাওয়া তথ্য-উপাত্তের ভিত্তিতে এ সময়সীমা ১৪ দিন।
+
+
+"<b>"কোয়ারেনটাইন বা সেলফ কোয়ারেনটাইনে থাকা ব্যক্তিরা কি করোনাভাইরাসে আক্রান্ত?"</b>"
+
+অধ্যাপক ফ্লোরা বলেন, অত্যন্ত স্পষ্ট ভাষায় বলতে চাই, কোনো ধরনের কোয়ারেনটাইনে থাকা কোনো ব্যক্তিই আক্রান্ত রোগী নন। একটি নির্দিষ্ট সময় পর্যন্ত তাদের কোয়ারেনটাইনে রাখা হয় যেন সেই সময় পর্যন্ত তাদের পর্যবেক্ষণে রাখা যায়। একইসঙ্গে যারা হোম কোয়ারেনটাইনে থাকেন, তারাও রোগী না। কেউ হয়তো বিদেশ থেকে এসেছেন। তাকে ১৪ দিন নিজের বাড়িতেই অন্যদের থেকে একটু আলাদা থাকতে বলা হয়, যেন তাদের মধ্যে কোনো ধরনের লক্ষণ থাকলে সেটা অন্যদের মধ্যে না ছড়ায়। এটিই হোম কোয়ারেনটাইন।
+
+সেলফ কোয়ারেনটাইনের বিষয়টি ব্যাখ্যা করে আইইডিসিআর পরিচালক বলেন, অনেকে প্রশ্ন করেন— যাদের বাড়ি নেই, তারা কিভাবে হোম কোয়ারেনটাইনে থাকবে? এ পরিস্থিতির জন্যই আমরা সেলফ কোয়ারেনটাইন শব্দটি ব্যবহার করছি। এই প্রক্রিয়ায় কেউ দেশের বাইরে থেকে এসে যেখানে উঠবেন, সেখানেই যেন ১৪ দিন পর্যন্ত অবস্থান করেন এবং কিছু নিয়ম মেনে চলেন। হোম বা সেলফ কোয়ারেনটাইন— উভয় প্রক্রিয়াতেই পরিবারের সদস্যসহ সবার সঙ্গেই যথাসম্ভব দূরত্ব রেখে চলতে হবে। খুব বেশি প্রয়োজন না হলে তিনি ঘরেই থাকবেন। এই সময়ের মধ্যে কোনো উপসর্গ দেখা দিলে চিকিৎসক বা যথাযথ কর্তৃপক্ষের সঙ্গে যোগাযোগ করতে হবে। চিকিৎসক যদি প্রয়োজন মনে করেন, তাকে সঙ্গে সঙ্গে আইসোলেশনে নিয়ে যাওয়া হয়।
+
+ডা. ফ্লোরা বলেন, যারা বিদেশ থেকে আসছেন, তারা দেশের বিভিন্ন স্থানে বর্তমানে হোম কোয়ারেনটাইনে আছেন। তার মানে কিন্তু এই নয় যে এদের কেউ অসুস্থ। অনেকেই অবশ্য মনে করছেন যে তারা অসুস্থ। কিন্তু প্রকৃত তথ্য হলো— তারা সবাই সুস্থ। দেশের বাইরে থেকে যারা এসেছেন, তাদের নিজেদের এবং বাকি সবার সুরক্ষার জন্য কেবল সেলফ কোয়ারেনটাইন বা হোম কোয়ারেনটাইন ব্যবস্থায় থাকতে বলা হয়েছে।
+
+       info source IEDCR and WHO
+
+"
+
+    </string>
+
+    <string name="isolation">
+
+"
+        "<u><b>"আইসোলেশন বা বিচ্ছিন্ন থাকা।।"</b></u>"
+
+আইসোলেশন মানে হচ্ছে রোগীকে একাকী রেখে চিকিৎসা দেয়া। কোয়ারেন্টিনে রাখা অবস্থায় যদি কারো উপসর্গ দেখা দেয় তাহলে তাকে আইসোলেশনে নিয়ে যেতে হবে।
+
+কিন্তু আইসোলেশনে কতদিন রাখা হবে তার কোন নির্দিষ্ট সময় নেই। যত দিন পর্যন্ত তার চিকিৎসা দেয়া হবে ততদিন তাকে আইসোলেশনে রাখতে হবে। অর্থাৎ পুরোপুরি সেরে না ওঠা পর্যন্ত তাকে আইসোলেশনে রাখতে হবে।
+
+একই সাথে ভাইরাসটি যদি বিভিন্ন মাধ্যমে যেমন হাঁচি, কাশি, থুতু বা মল-মূত্র ত্যাগের মাধ্যমে ছড়িয়ে পড়ার আশঙ্কা থাকে তাহলেও তাকে ওই সময় পর্যন্ত আলাদা করে আইসোলেশনে রাখতে হবে।
+
+"<b>"কিভাবে আইসোলেশন বা বিচ্ছিন্ন থাকবেন?"</b>"
+
+1. যাঁরা দেশের বাইরে থেকে এসেছেন বা সম্ভাব্য রোগীদের সংস্পর্শে এসেছেন বা নিশ্চিতভাবে করোনায় আক্রান্ত মানুষের সঙ্গে মিশেছেন, তাঁরা নিজেদের নিজের ঘরে আলাদা রাখবেন। তাঁরা কাউকে স্পর্শ করবেন না। নিজেদের স্বাস্থ্য নিজেরা পর্যবেক্ষণ করবেন। জ্বর মাপবেন। গলায় ব্যথা হচ্ছে কি না দেখবেন।
+
+2. যাঁরা জ্বর অনুভব করছেন, গলায় ব্যথা অনুভব করছেন, শ্বাসকষ্টে ভুগছেন, তাঁরাও আইসোলেশনে থাকবেন। মানে বিচ্ছিন্ন থাকবেন। তাঁদের সবার করোনাভাইরাস পরীক্ষার দরকার নেই। যতক্ষণ না আপনার বয়স ৬০ বছরের বেশি হয় বা রোগ প্রতিরোধক ক্ষমতা দুর্বল হয়, ততক্ষণ পরীক্ষা লাগবে না। ডাক্তারের সঙ্গে ফোনে কথা বলবেন।
+
+3. যাঁরা জ্বর অনুভব করছেন, গলায় ব্যথা অনুভব করছেন, শ্বাসকষ্টে ভুগছেন, তাঁরাও আইসোলেশনে থাকবেন। মানে বিচ্ছিন্ন থাকবেন। তাঁদের সবার করোনাভাইরাস পরীক্ষার দরকার নেই। যতক্ষণ না আপনার বয়স ৬০ বছরের বেশি হয় বা রোগ প্রতিরোধক ক্ষমতা দুর্বল হয়, ততক্ষণ পরীক্ষা লাগবে না। ডাক্তারের সঙ্গে ফোনে কথা বলবেন।
+
+4. আপনি যদি একা থাকেন, সাত দিন নিজেকে মনিটর করুন। যদি পরিবারের সঙ্গে থাকেন, ১৪ দিন সবাইকে বিচ্ছিন্ন থাকতে হবে। পরিস্থিতি বুঝে ১৪ দিন পর চলাচল করতে পারবেন বা পারবেন না।
+
+5. ধরা যাক, আপনার বাসায় একজন ফ্লুর লক্ষণে ভুগছে। এ জন্য আপনার পরিবার বিচ্ছিন্নতা বা আইসোলেশনে গেল। ষষ্ঠ দিনে আপনার সর্দি শুরু হলো। আপনাকে আরও সাত দিন বিচ্ছিন্ন থাকতে হবে। এর মধ্যে পরিবারের আরেকজন ১৩ নম্বর দিনে ভুগতে শুরু করল, তাহলে তাকে ২০ দিন থাকতে হবে আইসোলেশনে।
+
+6.আইসোলেশনে থাকা কোনো ব্যক্তির সঙ্গে যারা এক বাড়িতে বসবাস করছে, তাদের জন্য পরামর্শ হলো তাদের ঘন ঘন হাত ধুতে হবে। হাত ধোয়ার নিয়ম হলো সাবান ও পানি ব্যবহার করে অন্তত ২০ সেকেন্ড ধরে হাত ধুতে হবে, বিশেষ করে সংক্রমিত কারো সংস্পর্শে আসার পর।
+
+7. If you, or someone you live with, develop symptoms, the entire household needs to isolate for 14 days to monitor for signs of Covid-19.
+If someone else does become ill during that period, their seven-day isolation starts that day. For example, it might run from day three to day 10 - when that person's isolation would then end. It would not restart if another member of the household fell ill.
+But anyone who fell ill on day 13 would have to start a separate seven-day isolation from that day (meaning they would spend a total of 20 days at home).
+
+        info source newspaper,IEDCR,WHO
+
+        "
+
+    </string>
+    <string name="symptoms">
+        "
+"<b>"করোনা ভাইরাসের প্রধান লক্ষণগুলো হলো:"</b>"
+
+ক) সর্দি
+খ) গলা ব্যথা
+গ)  শুষ্ক কাশি
+ঘ) মাথা ব্যাথা
+ঙ) জ্বর
+চ) হাঁচি
+ছ) অবসাদ
+জ) শ্বাস নিতে কষ্ট হওয়া।
+
+ এছাড়াও,যদি কোন ব্যক্তির জ্বর ( ১০০° ফারেনহাইট / ৩৮° সেলসিয়াস এর বেশি ) / কাশি / সর্দি / গলা ব্যথা / শ্বাসকষ্ট ইত্যাদি থাকে এবং তিনি বিগত ১৪ দিনের মধ্যে চীন বা অন্য কোন আক্রান্ত দেশ ( সিঙ্গাপুর , দঃ কোরিয়া , জাপান , ইটালী , ইরান ইত্যাদি ) ভ্রমণ করে থাকেন অথবা , উক্ত সময়সীমার মধ্যে নিশ্চিত / সম্ভাব্য COVID - 19 আক্রান্ত রােগীর সংস্পর্শে এসে থাকেন , তবে ঐ ব্যক্তি COVID - 19 আক্রান্ত সন্দেহজনক রােগী হিসেবে বিবেচিত হবেন ।
+
+"<b>"করোনা ভাইরাস কী?:"</b>"
+
+করোনা ভাইরাস বলতে এক গোত্রের অনেকগুলো ভাইরাসকে বোঝায়, যা মূলত প্রাণীদের মধ্যে পাওয়া যায়। বার্ড ফ্লু তথা সার্স ভাইরাসও এই গোত্রের। হিউম্যান করোনা ভাইরাস এক ধরনের জুনোটিক রোগ এবং এই সংক্রমণটি প্রাণী থেকে মানুষের মধ্যে ছড়িয়ে পড়ে।
+ভাইরাসটির অনেক রকম প্রজাতি আছে। কিন্তু, এখন পর্যন্ত বিজ্ঞানীরা প্রায় ছয়টি করোনা ভাইরাস সনাক্ত করেছেন, যা মানুষকে প্রভাবিত করে এবং হালকা থেকে মারাত্মক লক্ষণ সৃষ্টি করে।  মানুষের দেহে ছয় ধরনের করোনা ভাইরাস সংক্রমিত হতে পারে, যথা - আলফা করোনা ভাইরাস (NL63 এবং 229E), বিটা করোনা ভাইরাস (HKU1 ও OC43) এবং বাকি দুটি সার্স ও মার্স তাদের প্রাণঘাতী লক্ষণগুলোর জন্য পরিচিত।
+
+"<b>"যাদের করোনাভাইরাস দ্বারা আক্রান্ত হওয়ার আশঙ্কা সবচেয়ে বেশিঃ"</b>"
+
+1. রোগ প্রতিরোধ ক্ষমতা দুর্বল হয়ে যায় এবং যারা বয়স্ক লোক।
+
+2. নির্দিষ্ট ধরণের ক্যান্সার রোগী।
+
+3. অঙ্গ প্রতিস্থাপন রোগীদের ।
+
+4. নির্দিষ্ট জেনেটিক রোগে আক্রান্ত ব্যক্তিরা ।
+
+5. সিস্টিক ফাইব্রোসিস এবং মারাত্মক দীর্ঘস্থায়ী ব্রঙ্কাইটিস হিসাবে গুরুতর শ্বাস প্রশ্বাসের অবস্থাযুক্ত লোকেরা ।
+
+6. হৃদরোগে আক্রান্ত গর্ভবতী মহিলা ।
+
+7. এজমা,ডায়াবেটিস আক্রান্ত কোন ব্যাক্তি।
+
+হিউম্যান করোনা ভাইরাস নির্ণয় হিউম্যান করোনা ভাইরাস নির্দিষ্ট কয়েকটি পরীক্ষার মাধ্যমে নির্ণয় করা হয়, যথা - মলিকিউলার টেস্ট : সক্রিয় সংক্রমণের লক্ষণগুলি খুঁজে বের করতে।
+সেরোলজি টেস্ট : এই পরীক্ষাটি নজরদারি করার উদ্দেশ্যে। এটি পূর্ববর্তী সংক্রমণ থেকে অ্যান্টিবডিগুলি সনাক্ত করার জন্য করা হয়, যা একজন ব্যক্তির ভাইরাসের ধরন প্রকাশিত করে।
+হিউম্যান করোনা ভাইরাস চিকিৎসা এর সঠিক চিকিৎসা এখনো আবিষ্কার করা হয়নি। বেশ কয়েকটি ভ্যাকসিন নিয়ে এখনো গবেষণা চলছে। তবে, অনেকগুলো সহায়ক চিকিৎসা পদ্ধতি এবং ওষুধ রয়েছে যেগুলো এর হালকা থেকে মাঝারি উপসর্গগুলির চিকিৎসা করতে পারে। উদাহরণস্বরূপ, ব্যথা ও জ্বরের চিকিৎসার জন্য ওষুধ বা গলা ব্যথা নিরাময়ের জন্য গরম পানি, ইত্যাদি।
+
+
+        "
+
+    </string>
+
+    <string name="domust">
+        "
+ "<b>"হিউম্যান করোনা ভাইরাস প্রতিরোধ"</b>"
+
+ক) হাঁচি বা কাশির পরে হাত ধুয়ে নিন।
+
+খ) কাশি বা হাঁচির আগে মুখ ঢেকে নিন।
+
+গ) আপনার যদি মনে হয় যে আপনি সংক্রামিত, তাহলে কোনো ব্যক্তির সঙ্গে ঘনিষ্ঠতা এড়িয়ে চলুন।
+
+ঘ) রান্না না করা গোশত ও ডিম খাওয়া এড়ান।
+
+ঙ) নিজেকে সারাক্ষণ হাইড্রেট রাখুন।
+
+চ) লক্ষণগুলো দেখা দেয়া মাত্রই ওষুধ খান এবং পরিস্থিতি গুরুতর হয়ে উঠতে দেবেন না।
+
+ছ) ধোঁয়াটে এলাকা বা ধূমপান করা এড়িয়ে চলুন।
+
+জ) যথাযথ বিশ্রাম নিন।
+
+ঝ) ভিড় থেকে দূরে থাকুন।
+
+"<b>"করোনায় আক্রান্ত রোগীদের পরিচর্যাকারীদের জন্য নির্দেশাবলীঃ"</b>"
+
+বর্তমানে সুস্থ আছেন এবং যার উপরে উল্লিখিত রোগসমূহ নেই , এমন একজন নির্দিষ্ট ব্যক্তিকে পরিচর্যাকারী হিসেবে নিয়োজিত হওয়া উচিৎ । সন্দেহজনক রোগীর সাথে কোন অতিথিকে দেখা করতে দিবেন না ।
+
+১। রোগীর সংস্পর্শে এলে বা তার ঘরে ঢুকলে খাবার তৈরীর আগে ও পরে খাবার আগে টয়লেট ব্যবহারের পরে হাত ধুয়ে নিন।
+
+২। গ্লাভস পরার আগে ও খোলার পরে।
+
+৩। যখনই হাত দেখে নোংরা মনে হয় V রােগী পরিচর্যার সময় এবং রোগীর মল - মূত্র বা অন্য আবর্জনা পরিষ্কারের সময় একবার ব্যবহারযাগ্যে ( ডিসপোজেবল ) মেডিকেল মাস্ক ও গ্লাভস ব্যবহার করুন । খালি হাতে রোগী বা ঐ ঘরের কোন কিছু স্পর্শ করবেন না।
+
+৪। রোগীর ব্যবহৃত বা রোগীর পরিচর্যায় ব্যবহৃত মাস্ক , গ্লাভস , টিস্যু ইত্যাদি অথবা অন্য আবর্জনা রোগীর রুমে রাখা ঢাকনাযুক্ত ময়লার পাত্রে রাখুন । আবর্জনা উন্মুক্ত স্থানে না ফেলে পুড়িয়ে ফেলুন ।
+
+৫। ঘরের মেঝে , আসবাবপত্রের সকল পৃষ্ঠতল , টয়লেট ও বাথরুম প্রতিদিন অন্তত একবার পরিষ্কার করুন । পরিষ্কারের জন্য ১ লিটার পানির মধ্যে ২০ গ্রাম ( ২ টেবিল চামচ পরিমাণ ) ব্লিচিং পাউডার মিশিয়ে দ্রবণ তৈরী করুন ও ঐ দ্রবণ দিয়ে উক্ত সকল স্থান ভালােভাবে মুছে ফেলুন । তৈরীকৃত দ্রবণ সর্বোচ্চ ২৪ ঘন্টা পর্যন্ত ব্যবহার করা যাবে ।
+
+৬। রোগীর ঘর / টয়লেট / বাথরুম / কাপড় ইত্যাদি পরিষ্কারের পুর্বে একবার ব্যবহারযাগ্যে ( ডিসপোজেবল ) গ্লাভস ও প্লাস্টিক এপ্রোন পরে নিন এবং এ সকল কাজ শেষে উপরের নিয়মে দুই হাত পরিষ্কার করুন ।
+
+
+
+        "
+
+
+    </string>
+
+    <string name="iedcr">
+        "
+
+"<b>"করোনাভাইরাস বিষয়ে যোগাযোগ করতে সরকারের রোগতত্ত্ব, রোগনিয়ন্ত্রণ ও গবেষণা প্রতিষ্ঠান (আইইডিসিআর) হটলাইন গুলোঃ"</b>"
+
+01401184551
+
+01401184554
+
+01401184555
+
+01401184556
+
+01401184559
+
+01401184560
+
+01401184563
+
+01401184568
+
+01927711784
+
+01927711785
+
+01937000011
+
+01937110011
+
+01944333222
+
+বেশ কয়েকটি হটলাইন নম্বর রয়েছে। আইইডিসিআরের ১৭টি। কিন্তু এই নম্বরগুলোয় আইভিআর যুক্ত না থাকায় অনেকেরই যোগাযোগ করতে অসুবিধা হতে পারে। সে জন্য করোনাভাইরাস বিষয়ে আইইডিসিআরের সঙ্গে যোগাযোগ করা যাবে ই–মেইল ও ফেসবুকের মাধ্যমে।’
+করোনাভাইরাস বিষয়ে যোগাযোগ করতে -
+"<b>"আইইডিসিআরের ফেসবুক পেজ-Iedcr,COVID19 Control Room"</b>"
+"<b>"এ ছাড়া ই–মেইল ঠিকানা- iedcrcovid19@gmail.com"</b>"
+আইইডিসিআরের হটলাইন ছাড়াও করোনা বিষয়ে স্বাস্থ্য অধিদপ্তরের কল সেন্টার "<b>"১৬২৬৩ ও ৩৩৩–"</b>"এ যোগাযোগ করা যাবে।
+
+
+        "
+    </string>
+
+    <string name="mask">
+        "
+"<b>"নির্দিষ্ট কিছু মাস্ক ব্যবহারের পরামর্শ দিচ্ছেন চিকিৎসকেরা।"</b>"মাস্ক ব্যাবহারের কিছু নিয়মবিধী আছে। দেখে নিন এক নজরে। N95 মাস্ক সবচেয়ে বেশি জার্ম প্রোটেকশন করে থাকে। তবে এটি  বিশেসজ্ঞদের বেশি ইউজাবল।
+
+১। যেকোন মাস্ক লাগানোর আগে অ্যালকোহল-ভিত্তিক হাত ঘষা বা সাবান এবং জল দিয়ে হাত পরিষ্কার করুন।
+
+২. সার্জিক্যাল মাস্ক ব্যবহার করা সবচেয়ে ভালো, যা একবারমাত্র ব্যবহার করতে হয়। এগুলোতে অনেকগুলো লেয়ার থাকে। তবে বাজারে এক লেয়ারের মাস্কও পাওয়া যায়, সেগুলো ব্যবহার করা ঠিক নয়।
+
+৩. সার্জিক্যাল মাস্কের দুটি দিক থাকে। সামনের দিকটা একটু হালকা নীল রঙের এবং পেছনের দিকটা সাদা রঙের। সাদা অংশটা ফিল্টার, যা ভেদ করে জীবাণু ঢুকতে পারে না। যাঁরা সুস্থ আছেন এবং ভাইরাস বা জীবাণু প্রতিরোধ করতে চান, তাঁরা সাদা অংশটি বাইরে রেখেই মাস্ক ব্যবহার করবেন। কেননা সাদা অংশ দিয়ে ফিল্টার করেই বাতাস ভেতরে ফুসফুসে ঢুকবে। নীল অংশটি মুখের ভেতরে থাকবে। অথচ বেশির ভাগ মানুষই সাদা অংশটি মুখের ভেতরে রাখেন।
+
+৪.তবে কেউ যখন ঠাণ্ডা, জ্বর, হাঁচি, কাশি বা অন্য কোনো রোগে আক্রান্ত, তখন নীল অংশটি বাইরে রেখে মাস্ক ব্যবহার করবেন। এতে তাঁর মুখ থেকে ক্ষতিকর কিছু বাইরে যেতে বাধা পাবে এবং অন্য কেউ সহজে আক্রান্ত হবে না।
+
+৫.অনেকে মাস্ক পরার সময় নাক খোলা রেখে শুধু মুখ ঢেকে রাখে। এটা কিন্তু ঠিক নয়। বরং ওপরের মেটাল অংশটাকে নাকের সঙ্গে চেপে ও নিচের অংশটাকে থুতনির নিচে নিয়ে উভয়ই ঢেকে রাখতে হবে।
+
+৬.অনেকে মাস্ক থুতনি পর্যন্ত খুলে রেখে কথাবার্তা বলেন। এটাও ঠিক নয়। এতে লেগে থাকা জীবাণু সহজেই দেহে ছড়িয়ে পড়ে।
+
+৭.একই মাস্ক ঘরে রেখে দিয়ে দীর্ঘদিন ব্যবহার করা উচিত নয়। নিয়ম হলো, একটি মাস্ক সর্বোচ্চ এক দিন ব্যবহার করে সেটাকে ধ্বংস করে দিতে হবে।
+
+"<b>"WHO থেকে ছোট একটি লেখা আছে কেউ চাইলে দেখে নিতে পারেন…"</b>"
+"<b>"Health Care Facilities:"</b>"
+Individuals with respiratory symptoms should:
+- wear a medical mask while waiting in triage or waiting areas or during transportation within the facility;
+- wear a medical mask when staying in cohorting areas dedicated to suspected or confirmed cases;
+- do not wear a medical mask when isolated in single rooms but cover mouth and nose when coughing or sneezing with disposable paper tissues. Dispose them appropriately and perform hand hygiene immediately afterwards.
+
+"<b>"Health care workers should:"</b>"
+- wear a medical mask when entering a room where patients suspected or confirmed of being infected with 2019-nCoV are admitted and in any situation of care provided to a suspected or confirmed casec;
+
+- use a particulate respirator at least as protective as a US National Institute for Occupational Safety and Health (NIOSH)-certified N95, European Union (EU) standard FFP2, or equivalent, when performing aerosol-generating procedures such as tracheal intubation, non-invasive ventilation, tracheotomy, cardiopulmonary resuscitation, manual ventilation before intubation, and bronchoscopy.
+
+"<b>"Masks management:"</b>"
+If medical masks are worn, appropriate use and disposal is essential to ensure they are effective and to avoid any increase in risk of transmission associated with the incorrect use and disposal of masks.
+The following information on correct use of medical masks derives from the practices in health-care settingsd:
+d Infection prevention and control of epidemic- and pandemic-prone acute respiratory infections in health care. World Health Organization. (2014). Organization. https://apps.who.int/iris/handle/10665/112656
+- place mask carefully to cover mouth and nose and tie securely to minimise any gaps between the face and the mask;
+- while in use, avoid touching the mask;
+- remove the mask by using appropriate technique (i.e. do not touch the front but remove the lace from behind);
+- after removal or whenever you inadvertently touch a used mask, clean hands by using an alcohol-based hand rub or soap and water if visibly soiled
+- replace masks with a new clean, dry mask as soon as they become damp/humid;
+- do not re-use single-use masks;
+- discard single-use masks after each use and dispose of them immediately upon removal.
+
+
+
+        "
+    </string>
+
+    <string name="social">
+        "
+"<b>"সোশ্যাল ডিসট্যান্সিং বা সামাজিক দূরত্ব"</b>"
+
+এর মানে হলো, আপনি অকারণে বাইরে যাবেন না। ঘরে থাকবেন। কোনো জরুরি প্রয়োজনে যেমন খাবারদাবার বা ওষুধ কিনতে বাইরে যেতে পারেন। তবে স্বাস্থ্যবিধি মেনে চলবেন, হাত ধোবেন। ভিড়ে যাবেন না, গণপরিবহনে পারতপক্ষে উঠবেন না, ভ্রমণ করবেন না, সিনেমা–থিয়েটার–প্রার্থনাগৃহে যাবেন না। অন্যের সঙ্গে ছয় ফুট দূরত্ব বজায় রাখবেন। বন্ধুবান্ধবের কাছে যাবেন না, তাঁরাও আসবেন না।
+
+এই মুহূর্তে আমাদের সবার সোশ্যাল ডিসট্যান্সিং বা সামাজিক দূরত্ব বজায় রাখা উচিত। আমি সুস্থ না অসুস্থ কিছু যায়–আসে না।
+
+1. নিত্যপ্রয়োজনীয় কেনাকাটা করতে যেতে পারেন। কম যাবেন। যাবেন তখন, যখন কম লোক থাকে বাজারে। সেখানে যাবেন, যেখানে কম ভিড় থাকে। মোটকথা ভিড় এড়িয়ে চলুন।
+বাজার থেকে বের হয়েই হাতে স্যানিটাইজার ব্যবহার করবেন। এসেই ভালোভাবে হাত ধুয়ে নেবেন।
+
+2. খাদ্য থেকে করোনাভাইরাস ছড়ানোর কথা শোনা যায়নি। তবে যে প্যাকেটে খাবার আনা হবে, সেটা ধরার পর হাত ধুয়ে নিতে হবে। আর কাঁচা সালাদ ফল বাইরে থেকে নিশ্চয়ই আনাবেন না। আর যিনি খাবার নিয়ে আসবেন, তাঁকে বলবেন খাবার দরজার বাইরে রেখে দিতে।
+
+3. হাতল ধরার পরেই হাত পরিষ্কার করুন। নামার সঙ্গে সঙ্গে হাত পরিষ্কার করুন।
+
+4. যতটা সম্ভব সোশ্যাল ডিসট্যান্সিং করুন। দরকার হলে, মাস্ক ব্যবহার করুন।
+
+5. আপনার এখন ভ্রমণ, দেশের ভেতরে বা বাইরে, করা নিষেধ। বাস, ট্রেন, প্লেন, জাহাজ, লঞ্চ লোকে ভরা থাকে।
+
+6. ব্যায়াম করব  ঘরে। ঘরের বাইরে ফাঁকা জায়গায়। কিন্তু জিমে নয়।
+
+7. কত দিন এই রকম সোশ্যাল ডিসট্যান্সিং করতে হবে? সম্ভবত কমপক্ষে পাঁচ মাস। পরে আবারও করতে হতে পারে। এটা একেবারে সেরে যাবে না সহসা। ঢেউয়ের মতো আসতে থাকবে।
+
+
+        Info source Newspaper,WHO,IEDCR
+
+        "
+
+    </string>
+
+    <string name="mental">
+        "
+
+ "<b>"Mental Health and Psychosocial Considerations During COVID-19 Outbreak "</b>"
+
+In January 2020 the World Health Organization (WHO) declared the outbreak of a new coronavirus disease to be a Public Health Emergency of International Concern. WHO stated there is a high risk of the 2019 coronavirus disease (COVID-19) spreading to other countries around the world. In March 2020, WHO made the assessment that COVID-19 can be characterized as a pandemic.
+WHO and public health authorities around the world are acting to contain the COVID-19 outbreak. However, this time of crisis is generating stress in the population. These mental health considerations were developed by the WHO’s Department of Mental Health and Substance Use as messages targeting different groups to support for mental and psychosocial well-being during COVID-19 outbreak.
+
+"<b>"General population"</b>"
+1. COVID-19 has and is likely to affect people from many countries, in many geographical locations. Do not attach it to any ethnicity or nationality. Be empathetic to all those who are affected, in and from any country. People who are affected by Covid-19 have not done anything wrong, and they deserve our support, compassion and kindness.
+2. Do not refer to people with the disease as “COVID-19 cases”, “victims” “COVID-19 families” or the “diseased”. They are “people who have COVID-19”, “people who are being treated for COVID-19”, “people who are recovering from COVID-19” and after recovering from COVID-19 their life will go on with their jobs, families and loved ones. It is important to separate a person from having an identity defined by COVID-19, to reduce stigma.
+3. Minimize watching, reading or listening to news that causes you to feel anxious or distressed; seek information only from trusted sources and mainly to take practical steps to prepare your plans and protect yourself and loved ones. Seek information updates at specific times during the day, once or twice. The sudden and near-constant stream of news reports about an outbreak can cause anyone to feel worried. Get the facts; not the rumors and misinformation. Gather information at regular intervals, from WHO website and local health authorities platforms, in order to help you distinguish facts from rumors. Facts can help to minimize fears. 2
+
+4. Protect yourself and be supportive to others. Assisting others in their time of need can benefit the person receiving support as well as the helper. For example, check-in by phone on neighbors or people in your community who may need some extra assistance. Working together as one community can help to create solidarity in addressing Covid-19 together.
+5. Find opportunities to amplify positive and hopeful stories and positive images of local people who have experienced COVID-19. For example, stories of people who have recovered or who have supported a loved one and are willing to share their experience.
+6. Honor caretakers and healthcare workers supporting people affected with COVID-19 in your community. Acknowledge the role they play to save lives and keep your loved ones safe.
+
+"<b>"Healthcare workers"</b>"
+7. For health workers, feeling under pressure is a likely experience for you and many of your health worker colleagues. It is quite normal to be feeling this way in the current situation. Stress and the feelings associated with it are by no means a reflection that you cannot do your job or that you are weak. Managing your mental health and psychosocial wellbeing during this time is as important as managing your physical health.
+8. Take care of yourself at this time. Try and use helpful coping strategies such as ensuring sufficient rest and respite during work or between shifts, eat sufficient and healthy food, engage in physical activity, and stay in contact with family and friends. Avoid using unhelpful coping strategies such as tobacco, alcohol or other drugs. In the long term, these can worsen your mental and physical wellbeing. This is a unique and unprecedent scenario for many workers, particularly if they have not been involved in similar responses. Even so, using strategies that have worked for you in the past to manage times of stress can benefit you now. You are most likely to know how to de-stress and you should not be hesitant in keeping yourself psychologically well. This is not a sprint; it’s a marathon.
+9. Some healthcare workers may unfortunately experience avoidance by their family or community due to stigma or fear. This can make an already challenging situation far more difficult. If possible, staying connected with your loved ones including through digital methods is one way to maintain contact. Turn to your colleagues, your manager or other trusted persons for social support- your colleagues may be having similar experiences to you.
+10. Use understandable ways to share messages with people with intellectual, cognitive and psychosocial disabilities. Forms of communication that do not rely solely on written information should be utilized If you are a team leader or manager in a health facility.
+11. Know how to provide support to, for people who are affected with COVID-19 and know how to link them with available resources. This is especially important for those who require mental health and psychosocial support. The stigma associated with mental health problems may cause 3
+
+reluctance to seek support for both COVID-19 and mental health conditions. The mhGAP Humanitarian Intervention Guide includes clinical guidance for addressing priority mental health conditions and is designed for use by general health workers.
+Team leaders or managers in health facility
+12. Keeping all staff protected from chronic stress and poor mental health during this response means that they will have a better capacity to fulfil their roles. Be sure to keep in mind that the current situation will not go away overnight and you should focus on longer term occupational capacity rather than repeated short-term crisis responses.
+13. Ensure good quality communication and accurate information updates are provided to all staff. Rotate workers from higher-stress to lower-stress functions. Partner inexperienced workers with their more experienced colleagues. The buddy system helps to provide support, monitor stress and reinforce safety procedures. Ensure that outreach personnel enter the community in pairs. Initiate, encourage and monitor work breaks. Implement flexible schedules for workers who are directly impacted or have a family member impacted by a stressful event. Ensure you build in time for colleagues to provide social support to each other.
+14. If you are a team leader or manager in a health facility, facilitate access to, and ensure staff are aware of where they can access mental health and psychosocial support services. Managers and team leaders are also facing similar stressors as their staff, and potentially additional pressure in the level of responsibility of their role. It is important that the above provisions and strategies are in place for both workers and managers, and that managers can be a role-model of self-care strategies to mitigate stress.
+15. Orient responders, including nurses, ambulance drivers, volunteers, case identifiers, teachers and community leaders and workers in quarantine sites, on how to provide basic emotional and practical support to affected people using psychological first aid
+16. Manage urgent mental health and neurological complaints (e.g. delirium, psychosis, severe anxiety or depression) within emergency or general health care facilities. Appropriate trained and qualified staff may need to be deployed to these locations when time permits, general health care staff capacity in mental health and psychosocial support should be increased (see mhGAP Humanitarian Intervention Guide)
+17. Ensure availability of essential, generic psychotropic medications at all levels of health care. People living with long-term mental health conditions or epileptic seizures will need uninterrupted access to their medication, and sudden discontinuation should be avoided. 4
+
+"<b>"Care providers for children"</b>"
+18. Help children find positive ways to express feelings such as fear and sadness. Every child has their own way to express emotions. Sometimes engaging in a creative activity, such as playing, and drawing can facilitate this process. Children feel relieved if they can express and communicate their feelings in a safe and supportive environment.
+19. Keep children close to their parents and family, if considered safe for the child, and avoid separating children and their caregivers as much as possible. If a child needs to be separated from their primary caregiver, ensure that appropriate alternative care is provided and that a social worker, or equivalent, will regularly follow up on the child. Further, ensure that during periods of separation, regular contact with parents and caregivers is maintained, such as twice-daily scheduled phone or video calls or other age-appropriate communication (e.g., social media depending on the age of the child).
+20. Maintain familiar routines in daily life as much as possible, or create new routines, especially if children must stay at home. Provide engaging age appropriate activities for children, including activities for their learning. As much as possible, encourage children to continue to play and socialize with others, even if only within the family when advised to restrict social contract.
+21. During times of stress and crisis, it is common for children to seek more attachment and be more demanding on parents. Discuss COVID-19 with your children using honest and age-appropriate way. If your children have concerns, addressing those together may ease their anxiety. Children will observe adults’ behaviors and emotions for cues on how to manage their own emotions during difficult times. Additional advice available here
+Older adults, care providers and people with underlying health conditions
+22. Older adults, especially in isolation and those with cognitive decline/dementia, may become more anxious, angry, stressed, agitated, and withdrawn during the outbreak/while in quarantine. Provide practical and emotional support through informal networks (families) and health professionals.
+23. Share simple facts about what is going on and give clear information about how to reduce risk of infection in words older people with/without cognitive impairment can understand. Repeat the information whenever necessary. Instructions need to be communicated in a clear, concise, respectful and patient way. It may also be helpful for information to be displayed in writing or pictures. Engage their family and other support networks in providing information and helping them practice prevention measures (e.g. handwashing etc.)
+24. If you have an underlying health condition, make sure to have access to any medications that you are currently using. Activate your social contacts to provide you with assistance, if needed. 5
+
+25. Be prepared and know in advance where and how to get practical help if needed, like calling a Taxi, having food delivered and requesting medical care. Make sure you have up to 2 weeks of all your regular medicines that you may require.
+26. Learn simple daily physical exercises to perform at home, in quarantine or isolation to maintain mobility and reduce boredom.
+27. Keep regular routines and schedules as much as possible or help create new ones in a new environment, including regular exercising, cleaning, daily chores, singing, painting or other activities. Help others, through peer support, neighbor checking, and childcare for medical personnel restricted in hospitals fighting against COVID-19 when safe to do so. in accordance with previous ones. Keep regular contact with loved ones (e.g. via phone or other accesses).
+
+"<b>"People in isolation"</b>"
+28. Stay connected and maintain your social networks. Even when isolated, try as much as possible to keep your personal daily routines or create new routines. If health authorities have recommended limiting your physical social contact to contain the outbreak, you can stay connected via e-mail, social media, video conference and telephone.
+29. During times of stress, pay attention to your own needs and feelings. Engage in healthy activities that you enjoy and find relaxing. Exercise regularly, keep regular sleep routines and eat healthy food. Keep things in perspective. Public health agencies and experts in all countries are working on the outbreak to ensure the availability of the best care to those affected.
+30. A near-constant stream of news reports about an outbreak can cause anyone to feel anxious or distressed. Seek information updates and practical guidance at specific times during the day from health professionals and WHO website and avoid listening to or following rumors that make you feel uncomfortable.
+
+        Info source WHO
+        "
+    </string>
+
+    <string name="hospital">
+        "
+"<b>"রাজধানীর যেসব হাসপাতালে হবে করোনার চিকিৎসা"</b>"
+
+কুয়েত বাংলাদেশ মৈত্রী সরকারী হাসপাতাল
+মন্ডল বাড়ি রোড, ৬ নম্বর সেক্টর, উত্তরা, ৩১৯, ঈশা খাঁ রোড, ঢাকা- ১২৩০
+যোগাযোগ- 01999-956290
+
+বাংলাদেশ রেলওয়ে জেনারেল হাসপাতাল, কমলাপুর
+আউটার সার্কুলার রোড, কমলাপুর
+যোগাযোগ- +8802-55007420
+
+মহানগর জেনারেল হাসপাতাল
+নয়া বাজার, ইংলিশ রোড, মতিঝিল, ঢাকা-১১০০
+যোগাযোগ- 02-57390860; 02-7390066
+
+মিরপুর মেটারনিটি হাসপাতাল
+মিরপুর রোড, বড়বাগ, রোড-২
+যোগাযোগ- 02-9002012
+
+কামরাঙ্গিরচর ৩১ শয্যা বিশিষ্ট হাসপাতাল
+লালবাগ, ঢাকা
+যোগাযোগ- 01726321189
+
+আমিনবাজার ২০ শয্যা বিশিষ্ট হাসপাতাল
+আমিনবাজার, সাভার
+যোগাযোগ- 01700000000, 01712290100
+
+জিনিজিরা ২০ শয্যা বিশিষ্ট হাসপাতাল
+কেরানীগঞ্জ, ঢাকা
+
+সাজিদা ফাউন্ডেশন হাসপাতাল
+১২৫, জুরাইন মেডিকেল রোড, জুরাইন, ঢাকা-১২০৪
+যোগাযোগ- 01777-771625
+
+ঢাকা মেডিকেল কলেজ হাসপাতাল
+বার্ন ও প্লাস্টিক সার্জারি বিভাগ
+যোগাযোগ- 01819220180
+
+শেখ রাসেল গ্যাস্ট্রোলিভার হাসপাতাল
+জাতীয় বক্ষব্যাধি ইন্সটিটিউট ও হাসপাতাল
+
+রোগতত্ব, রোগ নিয়ন্ত্রণ ও গবেষণা ইনস্টিটিউট এর হেল্পলাইনঃ
+16263 (Hotline)
+01401184551, 01401184554, 01401184555, 01401184556, 01401184559, 01401184560, 01401184563, 01401184568, 01927711784, 01927711785, 01937000011, 01937110011
+
+        "
+
+    </string>
+    <string name="feedback">
+""<b>"Feedback: "</b>"\nEmail: mehedi4day@gmail.com\nFacebook: https://www.facebook.com/mehedi.alone
+        "
+
+    </string>
+    <string name="desclaimer">
+"<b>"Disclaimer:"</b>"\nIts full open Sources app anyone can contribute.This is necessary consequence of our open-mindedness.For all information I am trying my best to 100% accurate,if you have face any mistake please send me mail. i will can fixed in next update.Thank you all.
+
+    </string>
+
+
+</resources>
